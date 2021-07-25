@@ -1,10 +1,10 @@
 Time series analysis is a statistical technique that deals with time series data, or trend analysis.  Time series data means that data is in a series of  particular time periods or intervals.  The data is considered in three types:
 
--Time series data: A set of observations on the values that a variable takes at different times.
+- Time series data: A set of observations on the values that a variable takes at different times.
 
--Cross-sectional data: Data of one or more variables, collected at the same point in time.
+- Cross-sectional data: Data of one or more variables, collected at the same point in time.
 
--Pooled data: A combination of time series data and cross-sectional data.
+- Pooled data: A combination of time series data and cross-sectional data.
 
 
 

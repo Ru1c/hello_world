@@ -32,7 +32,57 @@ get some items today:
     - correlation between lags is 0
  
 5. ACF and PACF
+
+    ACF includes direct and indirect effects from time stamp t-2 to t.
+
+    ACF is for MA order  -->  q
+
+
+    PACF only represents direct effect from time stamp t-2 to t, ignoring all the indirect effects.
+
+    PACF is for AR order  --> p
+
+
 6. AR and MA
+
 7. ARMA
+
 8. ARIMA
+
+    A: Auto
+
+    R: Regressive
+
+    I: Integrated
+
+    M: Moving
+
+    A: Average
+
+
 9. AIC and BIC (not only for time series models)
+
+
+l : a log likelihood
+
+k: a number of parameters
+
+n: a number of samples used for fitting
+
+AIC = 2k - 2l
+
+lower the better --> why? 
+
+- lower k means use less parameters to fit 
+
+-  higher log likelihood means better model fitting result
+
+BIC = k*ln(n) -2l
+
+lower the better --> why?
+
+- lower k means use less parameters to fit 
+
+- lower n means less sample is needed in model fitting
+
+-  higher log likelihood means better model fitting result

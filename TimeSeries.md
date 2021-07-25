@@ -8,7 +8,7 @@ Time series analysis is a statistical technique that deals with time series data
 
 
 
-get some items today:
+Get some items today:
 
 1. Stationarity
     - μ is const.

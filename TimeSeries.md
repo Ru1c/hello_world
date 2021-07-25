@@ -72,19 +72,19 @@ get some items today:
 
     AIC = 2k - 2l
 
-    lower the better --> why? 
+            lower the better --> why? 
 
-    - lower k means use less parameters to fit 
+            - lower k means use less parameters to fit 
 
-    -  higher log likelihood means better model fitting result
+            -  higher log likelihood means better model fitting result
 
 
     BIC = k*ln(n) -2l
 
-    lower the better --> why?
+            lower the better --> why?
 
-    - lower k means use less parameters to fit 
+            - lower k means use less parameters to fit 
 
-    - lower n means less sample is needed in model fitting
+            - lower n means less sample is needed in model fitting
 
-    -  higher log likelihood means better model fitting result
+            -  higher log likelihood means better model fitting result

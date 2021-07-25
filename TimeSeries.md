@@ -18,6 +18,7 @@ get some items today:
     DFT is for AR(1);ADFT is for AR(order>1).
 
     H0: Q=1 ,unit root, not stationary
+    
     H1: Q<1 ,no unit root, stationary
   
 4. White Noise (non-predictable)

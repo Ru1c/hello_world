@@ -63,26 +63,26 @@ get some items today:
 9. AIC and BIC (not only for time series models)
 
 
-l : a log likelihood
+    l : a log likelihood
 
-k: a number of parameters
+    k: a number of parameters
 
-n: a number of samples used for fitting
+    n: a number of samples used for fitting
 
-AIC = 2k - 2l
+    AIC = 2k - 2l
 
-lower the better --> why? 
+    lower the better --> why? 
 
-- lower k means use less parameters to fit 
+    - lower k means use less parameters to fit 
 
--  higher log likelihood means better model fitting result
+    -  higher log likelihood means better model fitting result
 
-BIC = k*ln(n) -2l
+    BIC = k*ln(n) -2l
 
-lower the better --> why?
+    lower the better --> why?
 
-- lower k means use less parameters to fit 
+    - lower k means use less parameters to fit 
 
-- lower n means less sample is needed in model fitting
+    - lower n means less sample is needed in model fitting
 
--  higher log likelihood means better model fitting result
+    -  higher log likelihood means better model fitting result

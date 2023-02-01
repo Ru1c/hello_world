@@ -1,0 +1,6 @@
+1. install pip  
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py  
+python3 get-pip.py
+
+2. check pip version  
+python3 -m pip –version  
